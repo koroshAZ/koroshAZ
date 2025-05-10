@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm KoroshAZ 👋</h1>
 
-<!--
-**koroshAZ/koroshAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning: Cybersecurity, Ethical Hacking, Python, and Web Development  
+- 🌍 Member of Hack Club | Open to collaborating on global open-source projects  
+- 💻 Tools I use: VS Code, Git, Kali Linux, Linux, Termux  
+- ⚡ My goal: To become a world-class cybersecurity expert
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills:
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+
+---
+
+### 📫 Connect with me:
+- Slack (Hack Club): Active
+- GitHub: [github.com/KoroshAZ](https://github.com/KoroshAZ)
+
+---
+
+*Let’s secure the world, one project at a time!*
